@@ -9,6 +9,10 @@
 | ![Quiz Result Screen](screenshots/pre-test.png) | ![Profile Screen](screenshots/result.png) | ![Settings Screen](screenshots/level.png) |
 
 
+## Documnitaion
+
+The docs [Tamakn Doc](https://github.com/ahmedoid/tamakn-allam/blob/main/Tamkan_Allam.pdf).
+
 ## Getting Started
 
 ### Prerequisites
