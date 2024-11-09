@@ -1,0 +1,1 @@
+ C:\\Users\\aljo3\\makeen-main\\.dart_tool\\flutter_build\\956f4c52297bce95f96d7c86778f7bcb\\native_assets.yaml: 
